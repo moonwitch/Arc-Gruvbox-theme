@@ -54,15 +54,15 @@ The theme may be available for other distributions as well. The package is usual
 
 #### Manual installation
 
-See [INSTALL.md](https://github.com/jnsh/arc-theme/blob/master/INSTALL.md) for build instructions, list of dependencies, build options and additional details.
+See [INSTALL.md](https://github.com/moonwitch/arc-gruvbox-theme/blob/master/INSTALL.md) for build instructions, list of dependencies, build options and additional details.
 
 ## Bugs
 
-If you find a bug, or have a suggestion for improving the theme, please open an issue at <https://github.com/jnsh/arc-theme/issues>.
+If you find a bug, or have a suggestion for improving the theme, please open an issue at <https://github.com/moonwitch/arc-gruvbox-theme/issues>.
 
 ## Contributing
 
-If you'd like to contribute to the project, open an pull request, or an issue for discussion. See [HACKING.md](https://github.com/jnsh/arc-theme/blob/master/HACKING.md) for further details.
+If you'd like to contribute to the project, open an pull request, or an issue for discussion. See [HACKING.md](https://github.com/moonwitch/arc-gruvbox-theme/blob/master/HACKING.md) for further details.
 
 ## License
 
